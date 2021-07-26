@@ -1,5 +1,10 @@
 # learn_egg
 
+Born to build
+
+better enterprise frameworks and apps with Node.js & Koa
+为企业级框架和应用而生
+
 
 # Egg的特点：
 
