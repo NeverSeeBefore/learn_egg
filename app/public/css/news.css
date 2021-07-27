@@ -1,0 +1,26 @@
+.news-view {
+    width: 300px;
+    height: 500px;
+    padding: 0;
+    margin: 0;
+}
+.view {
+    background-color: #e1e1e1;
+}
+.item {
+    list-style: none;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    padding-left: 20px;
+    font-size: 20px;
+    box-sizing: border-box;
+    background-color: transparent;
+}
+.item:hover {
+    background-color: #aaa;
+}
+.item > a {
+    color: saddlebrown;
+    text-decoration: none;
+}
